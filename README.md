@@ -23,6 +23,27 @@ Scikit-learn: To build and evaluate the models.
 To run this project locally, follow these steps:
 
 1: Clone the repository:
-
+ ```bash
 git clone https://github.com/your-username/Movie-Recommender-Model-.git
+ ```
+2: Navigate to the project folder:
+``` bash
+cd Movie-Recommender-Model-
+```
+3: Install the necessary libraries:
+``` bash
+pip install numpy pandas scikit-learn
+```
+## Usage
+1: Download the Dataset: Make sure you have the Kaggle dataset file [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) in the same directory as the notebook.
+
+2: Launch Jupyter Notebook:
+``` bash
+jupyter notebook
+```
+3: Open the Notebook: Navigate to Movie_Recommender_Model.ipynb in Jupyter
+
+
+
+
 
