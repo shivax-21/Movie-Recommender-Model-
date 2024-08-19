@@ -28,7 +28,7 @@ cd Movie-Recommender-Model-
 pip install numpy pandas scikit-learn
 ```
 ## Usage
-1. Download the Dataset: Make sure you have the Kaggle dataset file [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) in the same directory as the notebook.
+1. Download the Dataset: Make sure you have the Kaggle dataset file [this](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) in the same directory as the notebook.
 
 2. Launch Jupyter Notebook:
 ``` bash
