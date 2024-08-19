@@ -18,3 +18,11 @@ Pandas: To handle and explore the data.
 Numpy: For all the number crunching.
 
 Scikit-learn: To build and evaluate the models.
+
+## Installation
+To run this project locally, follow these steps:
+
+1: Clone the repository:
+
+git clone https://github.com/your-username/Movie-Recommender-Model-.git
+
