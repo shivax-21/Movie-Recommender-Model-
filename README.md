@@ -1,5 +1,5 @@
 # Movie-Recommender-Model-
-Welcome to the Movie Recommender System!!!  This repository contains a movie recommender model built using a dataset from Kaggle. The project is implemented in Python, utilizing popular libraries such as pandas, numpy, and scikit-learn. The recommender system predicts and suggests movies to users based on their past interactions with movies.
+Welcome to the Movie Recommender System!!!  This repository contains a movie recommender model built using a dataset from Kaggle (You can download it from [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)). The project is implemented in Python, utilizing popular libraries such as pandas, numpy, and scikit-learn. The recommender system predicts and suggests movies to users based on their past interactions with movies.
 ## Overview
 This project is a fun exploration into the world of personalized movie recommendations. Using a dataset from Kaggle, I’ve built a system that suggests movies you might like based on your past movies, viewing habits and preferences.
 ## What’s Inside
