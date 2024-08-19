@@ -38,6 +38,12 @@ jupyter notebook
 4. Run the Cells: Execute the cells in the notebook to train the model and see movie recommendations.
 ## Results
 This recommender system will help you discover new movies based on what you and others like. The model’s performance is evaluated to ensure that it provides meaningful and accurate recommendations.
+## Dataset Visualization
+
+To give you a better idea of what the data looks like, here’s a sample visualization:
+
+[Sample Data]("C:\Users\shivani patwa\OneDrive\Pictures\Screenshots\Screenshot 2024-08-19 222408.png")
+
 ## Contributing
 I’d love to see your contributions! Feel free to open an issue or submit a pull request if you have suggestions or improvements.
 ## Acknowledgments
