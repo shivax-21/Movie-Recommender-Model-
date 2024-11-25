@@ -17,7 +17,7 @@ Content-Based Filtering: Suggests movies that are similar to the ones you’ve e
 To run this project locally, follow these steps:
 1. Clone the repository:
  ```bash
-git clone https://github.com/your-username/Movie-Recommender-Model-.git
+git clone https://github.com/shivax-21/Movie-Recommender-Model-.git
  ```
 2. Navigate to the project folder:
 ``` bash
